@@ -1,5 +1,5 @@
 divide(2000,100)
-function divide(x,y){
+function divide(){
     return 2000/100
 }
 
